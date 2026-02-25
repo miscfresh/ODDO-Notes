@@ -1,0 +1,9 @@
+# Mac system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python junk
+__pycache__/
+*.py[cod]
+*$py.class
